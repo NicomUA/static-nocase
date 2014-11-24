@@ -1,0 +1,24 @@
+{
+    "name": "static-nocase",
+    "version": "0.0.1",
+    "description": "Node case-insensitive static server static server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "node",
+        "static",
+        "middleware",
+        "case-insensitive"
+    ],
+    "dependencies": {
+        "escape-html": "1.0.1",
+        "parseurl": "~1.3.0",
+        "send": "0.10.1",
+        "utils-merge": "1.0.0",
+        "glob": "~4.2.1"
+    },
+    "author": "Nikita Matsapura <macaniki@gmail.com>",
+    "license": "MIT"
+}
