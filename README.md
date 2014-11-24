@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-$ npm install statc-nocase
+$ npm install static-nocase
 ```
 
 ## API
