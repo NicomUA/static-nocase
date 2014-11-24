@@ -2,7 +2,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 
-Based on [server-static](shttps://github.com/expressjs/serve-static) node module, but process file in case-insensitive mode.
+Based on [server-static](https://github.com/expressjs/serve-static) node module, but process file in case-insensitive mode.
 
 ## Install
 
