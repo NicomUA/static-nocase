@@ -1,8 +1,8 @@
 # static-nocase
-
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 
+Based on [server-static](shttps://github.com/expressjs/serve-static) node module, but process file in case-insensitive mode.
 
 ## Install
 
@@ -46,3 +46,4 @@ server.listen(3000)
 [npm-url]: https://npmjs.org/package/static-nocase
 [downloads-image]: https://img.shields.io/npm/dm/static-nocase.svg?style=flat
 [downloads-url]: https://npmjs.org/package/static-nocase
+[serve-static-url]: https://github.com/expressjs/serve-static
